@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.App-logo {
+  height: 70px;
+  pointer-events: none;
+}
+
 .App-header {
   background: linear-gradient(to right, #7dc4b6, #dd9a8d);
   height: 100%;

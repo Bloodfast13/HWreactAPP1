@@ -11,7 +11,7 @@ export default () => {
       <Header />
       <div className="App-header">
         <Body />
-        <div>
+        <div className="App-logoWraper">
           <img src={githubLogo} alt={githubLogo} className="App-logo" />
           <a 
             className="App-link"
