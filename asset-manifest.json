@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HWreactAPP1/static/css/main.ed84e775.chunk.css",
+    "main.js": "/HWreactAPP1/static/js/main.0fd112c6.chunk.js",
+    "main.js.map": "/HWreactAPP1/static/js/main.0fd112c6.chunk.js.map",
+    "runtime-main.js": "/HWreactAPP1/static/js/runtime-main.1bf8d059.js",
+    "runtime-main.js.map": "/HWreactAPP1/static/js/runtime-main.1bf8d059.js.map",
+    "static/js/2.12d055fd.chunk.js": "/HWreactAPP1/static/js/2.12d055fd.chunk.js",
+    "static/js/2.12d055fd.chunk.js.map": "/HWreactAPP1/static/js/2.12d055fd.chunk.js.map",
+    "index.html": "/HWreactAPP1/index.html",
+    "precache-manifest.90473fbb04f4037d53b1c45a86f52eac.js": "/HWreactAPP1/precache-manifest.90473fbb04f4037d53b1c45a86f52eac.js",
+    "service-worker.js": "/HWreactAPP1/service-worker.js",
+    "static/css/main.ed84e775.chunk.css.map": "/HWreactAPP1/static/css/main.ed84e775.chunk.css.map",
+    "static/js/2.12d055fd.chunk.js.LICENSE.txt": "/HWreactAPP1/static/js/2.12d055fd.chunk.js.LICENSE.txt",
+    "static/media/252.png": "/HWreactAPP1/static/media/252.e45d9d1f.png",
+    "static/media/github-logo.svg": "/HWreactAPP1/static/media/github-logo.76d344f0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bf8d059.js",
+    "static/js/2.12d055fd.chunk.js",
+    "static/css/main.ed84e775.chunk.css",
+    "static/js/main.0fd112c6.chunk.js"
+  ]
+}
