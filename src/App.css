@@ -9,7 +9,7 @@
 
 .App-header {
   background: linear-gradient(to right, #7dc4b6, #dd9a8d);
-  min-height: 90vh;
+  height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
