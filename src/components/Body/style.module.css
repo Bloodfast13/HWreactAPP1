@@ -1,0 +1,50 @@
+.Body {
+    overflow: hidden;
+    width: 25%;
+    background: rgb(83, 170, 204);
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    margin: 50px;
+}
+
+.MainWrapper {
+    display: flex;
+    widows: 100%;
+    justify-content: space-between;
+    background-color: white;
+}
+
+hr {
+    width: 30%;
+}
+
+.Wrapper, .Wrapper3 {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.Wrapper3 {
+    border-left: 1px solid grey;
+    height: 100%;
+}
+
+.Wrapper2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.Text {
+    color: grey;
+    font-family: 'Libre Baskerville', serif;
+    margin: 10px;
+}
+
+.BodyHeader {
+    font-family: 'Playfair Display', serif;
+}
+
+.ImgPhoto {
+    margin: 10px;
+}
